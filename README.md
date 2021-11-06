@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanderson-guimaraes
 - 👀 I’m interested in Frontent Developer
-- 🌱 I’m currently learning all about Frontend...kkk
+- 🌱 I’m currently learning all about Frontend !!!
 - 💞️ I’m looking to collaborate on Angular Projects
 - 📫 How to reach me : My email is wandersonguimaraeswork@gmail.com
 
