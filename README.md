@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontent Developer
 - 🌱 I’m currently focus in Frontend Projects!!!
 - 💞️ I’m looking to collaborate on Angular and Vuejs Projects
-- 📫 How to reach me : My email is wandersonguimaraeswork@gmail.com
+- 📫 How to reach me : My email is wandersongui@gmail.com
 
 <!---
 wanderson-guimaraes/wanderson-guimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
